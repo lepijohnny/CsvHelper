@@ -5,13 +5,11 @@
 using CsvHelper.Configuration;
 using CsvHelper.Tests.Mocks;
 using Xunit;
-using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace CsvHelper.Tests.Mappings.ConstructorParameter
 {

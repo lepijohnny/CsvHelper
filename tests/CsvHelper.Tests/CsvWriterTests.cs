@@ -6,7 +6,6 @@ using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
-using System.Text;
 using CsvHelper.Configuration;
 using CsvHelper.TypeConversion;
 using Int32Converter = CsvHelper.TypeConversion.Int32Converter;
